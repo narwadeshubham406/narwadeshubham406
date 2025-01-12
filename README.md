@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @narwadeshubham406
-- 👀 I’m interested in Python
+- 👀 I’m interested in Programming languages
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various python projects
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Mechanical Engineer who is learning Computers.
